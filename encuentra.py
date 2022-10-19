@@ -1,6 +1,3 @@
-from pip import main
-
-
 def encuentra_numero(txt):
     '''
     Dado un texto, devuelve todos los números enteros (sin signo) que encuentre. Dichos números pueden tener un número
